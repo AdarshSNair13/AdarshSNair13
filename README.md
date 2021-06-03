@@ -1,3 +1,8 @@
+![Banner](/assets/bg.png.png)
+
+
+
+
 <h1 align="center">Hi 👋, I'm Adarsh S Nair</h1>
 <h3 align="center">I'm a final year Electronics and Communication Engineering Undergraduate from College Of Engineering Attingal. | Full Stack Web Developer | Embedded Systems Developer | App Developer | Electronics Hobbyist</h3>
 
